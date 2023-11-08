@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    background-color: navy;
+    color: white;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin: 3px; 
+}
+
+form {
+    width: 100%;
+}
+
+
+
+.div2 {
+    width: 100%;
+}
